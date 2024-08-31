@@ -1,2 +1,10 @@
-# Contest
-Computer Engineering Department Competition
+# 튜닝 모델
+- gpt4o-mini
+
+# 튜닝 내용
+- 채팅
+- 감정 분석
+
+# 튜닝 방법
+- 채팅 - 프롬프트 엔지니어링
+- 감정 분석 - 파인 튜닝
